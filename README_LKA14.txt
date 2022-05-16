@@ -1,2 +1,0 @@
-plumed*.dat files correspond to the input used for Parallel-Tempering Metadynamics in the Well-Tempered Ensemble simulations 
-HILLS* files correspond to the Gaussian hills deposited during the simulation, used to construct free energy profiles
