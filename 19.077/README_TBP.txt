@@ -5,4 +5,6 @@ Category2:
 Peptide (labelled 6mer and 12mer) on two titatnia surfaces: NeNH, and NH. Files are labelled peptide_surface.dat (plumed file) and peptide_surface.HILLS (hills file to calculate free energy profiles and surfaces). pdb files for both peptides are provided.
 All graphs in the manuscript can be reproduced using the HILLS file provided. Please contact the authors for configuration files, if required.   
 
-The files are distributed in 3 parts to meet github rules 
+The files "part1, part2, part3 are distributed in 3 parts to meet github rules. These files contain the original bias potentials
+
+The file TBP.zip is referenced in the PLUMED nest and omits the original bias potentials
